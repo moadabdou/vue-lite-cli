@@ -2,7 +2,7 @@
 ## Usage
 in your terminal write
 
-vue-lite <name>
+vue-lite name
 
 name : is the name of your app wich you want to create
 
